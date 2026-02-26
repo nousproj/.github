@@ -138,9 +138,9 @@ nousproj/
 | **nous-api-server** — gRPC + REST + DynamoDB | Phase 1 | ✅ Complete |
 | **nous-controller-manager** — AgentController | Phase 1 | ✅ Complete |
 | **nous-infra** — Pulumi DynamoDB + ECS | Phase 1 | Planned |
-| **nous-scheduler** — Multi-objective scheduling | Phase 2 | Scaffold |
-| **nous-node-supervisor** — Node lifecycle | Phase 2 | Scaffold |
-| **nous-agent-runtime** — Agent execution | Phase 2 | Scaffold |
+| **nous-scheduler** — Multi-objective scheduling | Phase 2 | ✅ Complete |
+| **nous-node-supervisor** — Node lifecycle | Phase 2 | ✅ Complete |
+| **nous-agent-runtime** — Agent execution | Phase 2 | ✅ Complete |
 
 ---
 
