@@ -142,14 +142,3 @@ nousproj/
 | **nous-node-supervisor** — Node lifecycle | Phase 2 | ✅ Complete |
 | **nous-agent-runtime** — Agent execution | Phase 2 | ✅ Complete |
 
----
-
-## Documentation Guide
-
-| Section | Description |
-|---------|-------------|
-| [Architecture](architecture/visual-architecture.md) | Visual diagrams of system components and data flow |
-| [Components](components/nous-api-server.md) | Per-service deep dives |
-| [ADRs](adr/001-standalone-control-plane.md) | Architecture Decision Records — the *why* behind every major choice |
-| [Phase 1](phase-1/README.md) | Implementation sequence and acceptance criteria |
-| [Analysis](analysis/cycle-analysis.md) | Dependency cycle analysis |
